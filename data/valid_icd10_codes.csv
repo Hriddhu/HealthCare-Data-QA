@@ -1,0 +1,32 @@
+icd10_code,description,category
+A04.7,Enterocolitis due to Clostridium difficile,Infectious
+A09.0,Other and unspecified gastroenteritis and colitis of infectious origin,Infectious
+B00.9,Herpesviral infection unspecified,Infectious
+E11.9,Type 2 diabetes mellitus without complications,Endocrine
+E66.9,Obesity unspecified,Endocrine
+E78.5,Hyperlipidemia unspecified,Endocrine
+F32.1,Major depressive disorder single episode moderate,Mental Health
+F41.1,Generalized anxiety disorder,Mental Health
+G43.909,Migraine unspecified not intractable without status migrainosus,Neurological
+I10,Essential primary hypertension,Circulatory
+I21.9,Acute myocardial infarction unspecified,Circulatory
+I25.10,Atherosclerotic heart disease of native coronary artery without angina,Circulatory
+I50.9,Heart failure unspecified,Circulatory
+J06.9,Acute upper respiratory infection unspecified,Respiratory
+J18.9,Pneumonia unspecified organism,Respiratory
+J45.20,Mild intermittent asthma uncomplicated,Respiratory
+J96.00,Acute respiratory failure unspecified whether with hypoxia or hypercapnia,Respiratory
+K21.0,Gastro-esophageal reflux disease with esophagitis,Digestive
+K29.70,Gastritis unspecified without bleeding,Digestive
+K57.30,Diverticulosis of large intestine without perforation or abscess without bleeding,Digestive
+L03.011,Cellulitis of right finger,Skin
+M25.511,Pain in right shoulder,Musculoskeletal
+M54.5,Low back pain,Musculoskeletal
+M79.3,Panniculitis unspecified,Musculoskeletal
+N18.3,Chronic kidney disease stage 3,Genitourinary
+N39.0,Urinary tract infection site not specified,Genitourinary
+R05.9,Cough unspecified,Symptoms
+R10.9,Unspecified abdominal pain,Symptoms
+Z00.00,Encounter for general adult medical examination without abnormal findings,Preventive
+Z12.11,Encounter for screening for malignant neoplasm of colon,Preventive
+Z23,Encounter for immunization,Preventive
