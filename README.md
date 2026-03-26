@@ -29,7 +29,7 @@ The pipeline loads a batch of healthcare claims, runs 12 validation rules across
 [5/5] Generate QA report → output/qa_report_<timestamp>.txt
 
 
-##Example Output
+#Example Output
 
 Running the pipeline against the included sample dataset produces:
 
